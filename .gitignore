@@ -1,0 +1,14 @@
+# ビルド成果物
+/rcmd
+/rcmd.exe
+*.test
+*.out
+
+# OS固有ファイル
+.DS_Store
+Thumbs.db
+
+# エディタ設定
+.vscode/
+.idea/
+*.swp
